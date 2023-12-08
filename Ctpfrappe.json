@@ -44,7 +44,7 @@
       "rgba(198, 208, 245, 0.17)"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#181926"
+      "#232634"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "rgba(198, 208, 245, 0.2)"
@@ -132,7 +132,7 @@
       ]
   },
     "rawColors": {
-      "BRAND_260": "#eed49f",
+      "BRAND_260": "#f2d5cf",
       "BRAND_360": "#c6a0f6",
       "BRAND_500": "#c6a0f6",
       "GREEN_360": "#a6d189",
@@ -144,8 +144,8 @@
       "PRIMARY_500": "#cad3f5",
       "PRIMARY_600": "#303446",
       "PRIMARY_630": "#24273a",
-      "PRIMARY_660": "#181926",
-      "PRIMARY_700": "#303446",
+      "PRIMARY_660": "#232634",
+      "PRIMARY_700": "#232634",
       "PRIMARY_800": "#1e2030",
       "PLUM_1": "#c6d0f5",
       "PLUM_10": "#bac2de",
