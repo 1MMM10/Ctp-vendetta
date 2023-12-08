@@ -100,6 +100,9 @@
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#11111b"
       ],
+      "CARD_PRIMARY_BG": [
+      "#1e1e2e"
+      ],
       "SCROLLBAR_AUTO_THUMB": [
       "#f38ba8"
       ],
@@ -126,7 +129,13 @@
       ],
       "TEXT_NORMAL": [
       "#cdd6f4"
-      ]
+      ],
+        "TEXT_PRIMARY": [
+            "#cdd6f4"
+        ],
+        "TEXT_SECONDARY": [
+        "#a6adc8"
+        ],
   },
     "rawColors": {
       "BRAND_260": "#f38ba8",
@@ -163,7 +172,7 @@
       "PLUM_6": "#cba6f7",
       "PLUM_9": "#cdd6f4",
       "RED_400": "#fab387",
-      "WHITE_500": "#cdd6f4",
+      "WHITE_500": "#1e1e2e",
       "YELLOW_300": "#f9e2af"
     },
     "plus":{
