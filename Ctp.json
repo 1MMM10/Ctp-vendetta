@@ -1,5 +1,5 @@
 {
-    "name": "Catppuccin Mocha",
+    "name": "Catppuccin Mochat",
     "description": "Soothing pastel theme for the high-spirited!",
     "authors": [
       {
@@ -65,7 +65,7 @@
       "#11111b"
       ],
       "CHANNEL_ICON": [
-      "#cba6f7"
+      "#cdd6f4"
       ],
       "CHANNELS_DEFAULT": [
       "#9399b2"
@@ -156,7 +156,7 @@
       "PLUM_17": "#11111b",
       "PLUM_18": "#313244",
       "PLUM_19": "#313244",
-      "PLUM_20": "#cba6f7",
+      "PLUM_20": "#313244",
       "PLUM_21": "#89b4fa50",
       "PLUM_22": "#313244",
       "PLUM_24": "#11111b",
